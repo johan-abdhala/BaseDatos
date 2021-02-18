@@ -1,0 +1,46 @@
+    1  yum update && yum upgrade
+    2  yum erase xinetd ypserv tft-server telnet-server rsh-server
+    3  vim pwquality.conf
+    4  vi pwquality.conf
+    5  ls
+    6  clear
+    7  ls -a
+    8  ls -la
+    9  cd /etc/security/
+   10  ls
+   11  cd pwquality.conf
+   12  cd /pwquality.conf/
+   13  cd /pwquality.conf.d
+   14  cd pwquality.conf
+   15  cd /etc/security/pwquality.conf
+   16  cd /etc/security
+   17  ls 
+   18  vi pwquality.conf
+   19  cd /etc/pam.d/passwd
+   20  cd /etc/pam.d/
+   21  ls
+   22  vi passwd
+   23  cd /etc/security
+   24  vi pwquality.conf
+   25  cd /etc/pam.d/
+   26  vi passwd
+   27  cd /etc/security
+   28  vi pwquality.conf
+   29  cd /etc/security
+   30  cd /etc/pam.d/
+   31  vi passwd
+   32  cd /etc/security
+   33  vi pwquality.conf
+   34  cd home
+   35  cd /home
+   36  ls
+   37  adduser a1845286
+   38  ls
+   39  passwd a1845286
+   40  history
+   41  change -M 45 a1845286
+   42  chage -M 45 a1845286
+   43  usermod -aG wheel a1845286
+   44  hostory
+   45  history
+   46  history >1845286_root_practica1.txt

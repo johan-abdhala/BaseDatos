@@ -1,0 +1,36 @@
+    1  sudo vi /etc/pam.b/system-auth
+    2  sudo vi /etc/pam.d/system-auth
+    3  sudo vi /etc/pam.d/password-auth
+    4  cd /etc/ssh
+    5  ls
+    6  sudo vi sshd_config
+    7  cd /var/log
+    8  ls
+    9  cd /var/log/
+   10  ls
+   11  cat boot.log
+   12  sudo cat boot.log
+   13  ls
+   14  sudo cat dmesg
+   15  ls
+   16  sudo cat lastlog
+   17  exit
+   18  history
+   19  cd /var/log
+   20  ls
+   21  systemctl status rsyslog
+   22  history > history_a1845286.txt
+   23  history
+   24  history > history_a1845286.txt
+   25   sudo history > history_a1845286.txt
+   26  ls
+   27  cd /home/
+   28  history > history_a1845286.txt
+   29  history
+   30  history >historial_a1845286.txt
+   31  history
+   32  history > a.txt
+   33  history > sudo  a.txt
+   34  exit
+   35  history 
+   36  history > history_a1845286.txt
